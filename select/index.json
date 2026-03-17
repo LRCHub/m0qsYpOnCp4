@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "メトロ",
+  "base_artist": "東京事変",
+  "createdAt": "2026-03-17T12:43:31.988629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メトロ",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_メトロ_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Metro [メトロ]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/02_Metro_[メトロ]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プラスチック・メトロ",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/03_プラスチック・メトロ_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メトロ",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_メトロ_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メトロ・フィルム",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/05_メトロ・フィルム_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メトロ・フィルム(Album ver.)",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/06_メトロ・フィルム(Album_ver.)_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メトロ・フィルム",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/07_メトロ・フィルム_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メトロ・フィルム",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/08_メトロ・フィルム_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メトロ",
+      "artist": "Advantage Lucy",
+      "has_synced": true,
+      "path": "select/09_メトロ_Advantage_Lucy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メトロ",
+      "artist": "谷村新司",
+      "has_synced": false,
+      "path": "select/10_メトロ_谷村新司.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メトロ",
+      "artist": "tacica",
+      "has_synced": false,
+      "path": "select/11_メトロ_tacica.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メトロ (T.D. for jacaranda)",
+      "artist": "tacica",
+      "has_synced": true,
+      "path": "select/12_メトロ_(T.D._for_jacaranda)_tacica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メトロ",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_メトロ_東京事変.txt"
+    }
+  ]
+}
